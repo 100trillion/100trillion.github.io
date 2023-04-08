@@ -4,18 +4,30 @@
   <url>
     <loc>https://100trillion.github.io/posts/from-concrete-jungle-to-green-oasis-the-need-for-more-natural-spaces-in-seoul/</loc>
     <lastmod>2023-04-08T20:36:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://100trillion.github.io/</loc>
     <lastmod>2023-04-08T20:36:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://100trillion.github.io/posts/</loc>
     <lastmod>2023-04-08T20:36:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://100trillion.github.io/posts/my-first-post/</loc>
+    <loc>https://100trillion.github.io/posts/the-importance-of-green-spaces-in-cities/</loc>
     <lastmod>2023-04-08T18:38:37+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://100trillion.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://100trillion.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

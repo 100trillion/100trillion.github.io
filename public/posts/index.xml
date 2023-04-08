@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My new landscaping website</title>
+    <title>Posts on greenerseoul</title>
     <link>https://100trillion.github.io/posts/</link>
-    <description>Recent content in Posts on My new landscaping website</description>
+    <description>Recent content in Posts on greenerseoul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 08 Apr 2023 20:36:23 +0900</lastBuildDate><atom:link href="https://100trillion.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -19,10 +19,10 @@ Seoul is the capital city of South Korea and home to over 10 million people. Whi
     
     <item>
       <title>The importance of green spaces in cities</title>
-      <link>https://100trillion.github.io/posts/my-first-post/</link>
+      <link>https://100trillion.github.io/posts/the-importance-of-green-spaces-in-cities/</link>
       <pubDate>Sat, 08 Apr 2023 18:38:37 +0900</pubDate>
       
-      <guid>https://100trillion.github.io/posts/my-first-post/</guid>
+      <guid>https://100trillion.github.io/posts/the-importance-of-green-spaces-in-cities/</guid>
       <description>Urbanization is on the rise, and as cities become more densely populated, the need for green spaces has become increasingly apparent. Green spaces are defined as parks, gardens, and other areas of natural vegetation that provide a multitude of benefits to urban areas. In this blog post, we will explore the importance of green spaces and why cities should prioritize their creation and maintenance.
 Environmental benefits One of the primary benefits of green spaces is their positive impact on the environment.</description>
     </item>
