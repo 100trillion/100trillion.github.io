@@ -1,0 +1,4 @@
+baseURL = 'https://100trillion.github.io/'
+languageCode = 'ko-kr'
+title = 'My new landscaping website'
+theme = 'ananke'
