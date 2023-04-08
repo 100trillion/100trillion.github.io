@@ -2,12 +2,9 @@ baseURL = 'https://100trillion.github.io/'
 languageCode = 'ko-kr'
 title = 'greenerseoul'
 theme = ['ananke']
-resourceDir = "../resources"
 
-DefaultContentLanguage = "ko"
 SectionPagesMenu = "main"
 Paginate = 9
-googleAnalytics = ""
 enableRobotsTXT = true
 
 [sitemap]
