@@ -2,6 +2,7 @@
 title: "From concrete jungle to green oasis: the need for more natural spaces in seoul"
 date: 2023-04-08T20:36:23+09:00
 draft: false
+featured_image: '/images/stream.jpg'
 ---
 
 In my previous blog post, I discussed the importance of green spaces in cities and why it is crucial for cities to prioritize their creation and maintenance. However, many cities around the world, including Seoul, are facing a shortage of green spaces, which has significant implications for the health and well-being of urban residents.
