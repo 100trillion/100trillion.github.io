@@ -2,6 +2,7 @@
 title: "The importance of green spaces in cities"
 date: 2023-04-08T18:38:37+09:00
 draft: false
+featured_image: /images/stream.jpg
 ---
 
 Urbanization is on the rise, and as cities become more densely populated, the need for green spaces has become increasingly apparent. Green spaces are defined as parks, gardens, and other areas of natural vegetation that provide a multitude of benefits to urban areas. In this blog post, we will explore the importance of green spaces and why cities should prioritize their creation and maintenance.
