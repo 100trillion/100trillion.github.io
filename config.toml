@@ -1,6 +1,6 @@
 baseURL = 'https://100trillion.github.io/'
 languageCode = 'ko-kr'
-title = 'city2jungle'
+title = 'hortihero'
 theme = ['ananke']
 
 SectionPagesMenu = "main"
